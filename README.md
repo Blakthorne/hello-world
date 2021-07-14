@@ -1,3 +1,2 @@
 # hello-world
-Hello my terrible but beautiful world.
-Hiiiiiiiii
+My first git push
